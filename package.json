@@ -20,7 +20,8 @@
     "string.prototype.matchall": "^4.0.2"
   },
   "package-deps": [
-    "linter"
+    "linter",
+    "language-coccinelle"
   ],
   "providedServices": {
     "linter": {
