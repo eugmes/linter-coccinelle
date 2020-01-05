@@ -1,0 +1,7 @@
+[
+  {
+    severity: 'warning'
+    excerpt: 'Metavariable bar not used in the - or context code'
+    position: [[0, 0], [0, 2]]
+  }
+]

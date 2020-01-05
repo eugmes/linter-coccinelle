@@ -1,0 +1,7 @@
+[
+  {
+    severity: 'error'
+    excerpt: 'Parse error'
+    position: [[1, 14], [1, 18]]
+  }
+]
