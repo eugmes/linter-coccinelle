@@ -1,0 +1,4 @@
+@@
+expression foo;
+@@
+* foo
