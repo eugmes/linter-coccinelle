@@ -1,0 +1,14 @@
+{
+  "executablePath": {
+    "type": "string",
+    "default": "spatch",
+    "description": "Path to the spatch executable",
+    "order": 1
+  },
+  "additionalArguments": {
+    "type": "string",
+    "default": "",
+    "description": "Additional arguments for spatch",
+    "order": 2
+  }
+}
