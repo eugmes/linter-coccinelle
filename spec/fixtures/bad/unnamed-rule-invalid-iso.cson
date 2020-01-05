@@ -1,0 +1,12 @@
+[
+  {
+    severity: 'error',
+    excerpt: 'Invalid iso name invalid_iso_rule'
+    position: [[2, 0,], [2, 8]]
+  }
+  {
+    severity: 'warning',
+    excerpt: 'Should foo be a metavariable?'
+    position: [[5, 0], [5, 5]]
+  }
+]
